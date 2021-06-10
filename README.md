@@ -1,4 +1,4 @@
-# activeMQ-springboot-example
+# activeMQ-springboot 
 demo project with springboot and activeMQ
 
 #Springboot application with minimum configuration required to implement active MQ (java messeage service).

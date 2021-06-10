@@ -1,6 +1,7 @@
 # activeMQ-springboot-example
 demo project with springboot and activeMQ
-Springboot application with minimum configuration required to implement active MQ (java messeage service).
+
+#Springboot application with minimum configuration required to implement active MQ (java messeage service).
 Will find Produce, consumer, JMS queue and ActiveMQ Connection factory configuration.
 
 #Download ActiveMQ from http://activemq.apache.org/download.html. Extract it. In the bin folder click on activemq.bat and start ActiveMQ;
